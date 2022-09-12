@@ -1,12 +1,4 @@
 {
-    "name": "XToken NFT",
-    "description": "NFT Test Collection of the Xurpas",
-    "image": "https://xurpasgroup.com/wp-content/uploads/2021/05/7c2c0dd1d76c2af5fb2a2ae9bc69bdfe-1.png",
-    "external_link": "https://xurpasgroup.com/our-company/",
-    "fee_recipient": "0xc9e346A99554f3E2b1985be71b5D1b8638324e31"
-}
-
-{
   "profile": {
     "name": "XToken NFT",
     "description": "NFT Test Collection of the Xurpas",

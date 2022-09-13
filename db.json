@@ -26,16 +26,16 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "some comment1",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "some comment2",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode1"
   }
 }

@@ -6,8 +6,7 @@
     "external_link": "https://xurpasgroup.com/our-company/",
     "seller_fee_basis_points": 100,
     "fee_recipient": "0xc9e346A99554f3E2b1985be71b5D1b8638324e31"
-  }
-  
+  },
   "Metacare_NFT": {
     "name": "Metacare NFT",
     "description": "NFT Test Collection of the Metacare",
@@ -16,4 +15,5 @@
     "seller_fee_basis_points": 100,
     "fee_recipient": "0xc9e346A99554f3E2b1985be71b5D1b8638324e31"
   }
+
 }

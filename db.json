@@ -39,7 +39,14 @@
       "seller_fee_basis_points": 100,
       "fee_recipient": "0xc9e346A99554f3E2b1985be71b5D1b8638324e31"
   },
-  "profile": {
-    "name": "typicode1"
+  "solana_nft": {
+    "name": "Test NFT",
+    "symbol": "TNFT",
+    "description": "A test for our NFT example.",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://i.pinimg.com/736x/86/21/05/86210599ff30da1e26e735ca1ace9266.jpg"
   }
 }
